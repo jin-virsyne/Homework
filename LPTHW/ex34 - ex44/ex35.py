@@ -66,7 +66,7 @@ def start():
     if choice == "left":
         bear_room()
     elif choice == "right":
-        cthulhu_room
+        cthulhu_room()
     else:
         dead("You stumble around the room until you starve.")
 
