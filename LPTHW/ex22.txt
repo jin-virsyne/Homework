@@ -1,0 +1,18 @@
+SYMBOL  NAME                USE
++       plus                merge strings, adding integers
+-       minus               minus integers
+*       asterisk            multiply integers, accepting multiple arguments into a function
+/       slash               divide integers
+\       backslash           used to escape sequence like \n
+%       modulus             find remain after divide. Eg: 13%2 will be 1
+<       less than           use as comparison to return true/false
+>       greater than        use as comparison to return true/false
+<=      less than equal     use as comparison to return true/false
+>=      greater than equal  use as comparison to return true/false
+()      brackets            used to contain parameters
+=       equal               used to assign a value
+#       hash                used to write comment
+"       double quote        used to write string, """ as multi-line comment
+'       single quote        used to write string, ''' as multi-line comment
+:       colon               used to define and start a function
+;       semi-colon          denotes separation, allows multiple statements on the statements
