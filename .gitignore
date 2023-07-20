@@ -1,2 +1,5 @@
 
 *.pyc
+*.sqlite3
+*.Identifier
+Django/mysite/db.sqlite3
