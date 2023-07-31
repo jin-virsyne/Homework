@@ -1,8 +1,3 @@
-FROM klakegg/hugo:latest
+FROM klakegg/hugo:onbuild
 
-WORKDIR /app
-COPY . /app/
-
-RUN hugo --minify
-
-CMD ["hugo", "server", "--bind=0.0.0.0", "--port=1313"]
+CMD ["server", "--bind=0.0.0.0", "--port=1313"]

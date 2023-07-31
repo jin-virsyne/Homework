@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "./"
+baseurl = "."
 languageCode = "en-us"
 title = "Jin - Resume"
 theme = "hugo-orbit-theme"
