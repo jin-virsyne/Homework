@@ -1,7 +1,7 @@
 
 *.pyc
+*.sqlite
 *.sqlite3
 *.Identifier
 hugo/public/*
 *.lock
-
