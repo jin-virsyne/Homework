@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "."
+baseurl = "./"
 languageCode = "en-us"
 title = "Jin - Resume"
 theme = "hugo-orbit-theme"
@@ -156,7 +156,7 @@ disable404 = true
 
         [[params.jobs.list]]
         position = "Web Developer"
-        dates = "Feb 2019 - Jan 2019"
+        dates = "Oct 2016 - Jan 2019"
         company = "Appstream, Selangor"
         details = """
 - Spearheaded GUI revitalization or implementation for existing and new websites, enhancing user experience.
@@ -203,7 +203,7 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Angular"
-        level = "45%"
+        level = "35%"
 
         [[params.skills.list]]
         skill = "ASP .NET MVC"
@@ -219,14 +219,14 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Django"
-        level = "55%"
+        level = "40%"
 
         [[params.skills.list]]
         skill = "Docker"
-        level = "50%"
+        level = "33%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
+        skill = "HTML/CSS"
         level = "95%"
                 
         [[params.skills.list]]
@@ -235,11 +235,15 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Kubernetes"
-        level = "50%"
+        level = "30%"
+
+        [[params.skills.list]]
+        skill = "Lightroom"
+        level = "43%"
 
         [[params.skills.list]]
         skill = "Litestar"
-        level = "30%"
+        level = "25%"
 
         [[params.skills.list]]
         skill = "Python"
@@ -247,11 +251,15 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Sketch & Photoshop"
-        level = "70%"
+        level = "65%"
 
         [[params.skills.list]]
         skill = "SQL"
-        level = "75%"        
+        level = "75%"
+
+        [[params.skills.list]]
+        skill = "Tiled"
+        level = "53%"
 
     # Footer section
 
