@@ -1,5 +1,7 @@
 
 *.pyc
+*.sqlite
 *.sqlite3
 *.Identifier
-*.sqlite
+hugo/public/*
+*.lock
