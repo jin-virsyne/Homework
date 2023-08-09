@@ -4,4 +4,5 @@
 *.sqlite3
 *.Identifier
 hugo/public/*
-*.lock
+hugo/.hugo_build.lock
+.venv
