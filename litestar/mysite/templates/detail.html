@@ -1,0 +1,12 @@
+<form action="/polls/{{question.id}}/vote/" method="post">
+
+<fieldset>
+    <legend><h1>{{ question.question_text }}</h1></legend>
+    {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+    {% for choice in question.choices %}
+        <input type="radio" name="choice" id="choice{{ loop.index }}" value="{{ choice.id }}">
+        <label for="choice{{ loop.index }}">{{ choice.choice_text }}</label><br>
+    {% endfor %}
+</fieldset>
+<input type="submit" value="Vote">
+</form>
