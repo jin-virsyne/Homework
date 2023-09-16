@@ -6,3 +6,8 @@
 hugo/public/*
 hugo/.hugo_build.lock
 .venv
+.vs
+asp.net-core/EFCoreWithRazor/ContosoUniversity/bin/Debug/*
+.csproj.user
+*.csproj.user
+asp.net-core/EFCoreWithRazor/ContosoUniversity/obj/*
