@@ -6,3 +6,7 @@
 hugo/public/*
 hugo/.hugo_build.lock
 .venv
+.vs
+asp.net-core/RazorPagesMovie/RazorPagesMovie/bin/Debug/*
+asp.net-core/RazorPagesMovie/RazorPagesMovie/obj/*
+*.csproj.user
