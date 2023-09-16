@@ -11,3 +11,4 @@ asp.net-core/EFCoreWithRazor/ContosoUniversity/bin/Debug/*
 .csproj.user
 *.csproj.user
 asp.net-core/EFCoreWithRazor/ContosoUniversity/obj/*
+asp.net-core/EFCoreWithRazor/ContosoUniversity/Migrations/*
